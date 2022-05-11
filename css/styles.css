@@ -79,9 +79,13 @@ p {
 
 /* Title Image*/
 .title-image {
-  width: 55%;
+  width: 95%;
   border-radius: 50%;
-}
+  position: relative;
+  left: 45%;
+  }
+
+
 
 /* Feature Section */
 #features {
