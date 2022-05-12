@@ -19,6 +19,13 @@ p {
 
 }
 
+.big-heading1 {
+  font-family: "Rubik";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-top: 17%;
+}
+
 .section-heading {
   font-size: 3rem;
   line-height: 1.5rem;
@@ -88,7 +95,7 @@ p {
 
 .title-image {
   width: 95%;
-  border-radius: 50%;
+  /* border-radius: 50%; */
 
   }
 
